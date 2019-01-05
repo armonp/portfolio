@@ -1,0 +1,41 @@
+.navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+  }
+
+.center {
+      margin: auto;
+  }
+
+.jumbotron {
+    border-bottom: 2px solid #cf0;
+  }
+
+img.resize {
+      height: 75%;
+      width: 75%;
+  }
+
+footer {
+    border-top: 2px solid #cf0;  
+    background-color: #535353;
+    color: white;
+  }
+
+.socialbtn:link, .socialbtn:visited {
+    padding: 5px 10px;
+      font-size: 20px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      color: #cf0;
+  }
+
+.socialbtn:hover {
+    opacity: .5;
+  }
+  body {
+    /* overflow-x:hidden; */
+
+  }
+
